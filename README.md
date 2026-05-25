@@ -1,4 +1,4 @@
-# 🍚 mifan-dailysign
+# 🍚 meefan-dailysign
 
 米饭 APP 日常自动签到脚本 —— 支持青龙面板与本地终端交互两种运行模式。
 
