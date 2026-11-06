@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 密钥 / 本地配置
+.env
+*.env
+secrets.json
+
+# 运行产物
+*.log
+request_state.json
+comment_progress.json
+
+# IDE
+.idea/
+.vscode/
+
+# 临时依赖目录（离线测试用）
+_testlib/
